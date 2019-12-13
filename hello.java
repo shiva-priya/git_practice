@@ -5,6 +5,6 @@ class hello
 		System.out.println("Hello World!");
 	}
 	hello h = new hello();
-	
+	int a = 10;
 }
 
